@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#home {
+  background: url('images/me.jpeg') no-repeat center center/cover;
+  color: #fff;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+#projects .card {
+  margin: 10px 0;
+}
+
+footer {
+  background-color: #333;
+}
